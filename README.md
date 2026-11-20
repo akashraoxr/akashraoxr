@@ -151,11 +151,5 @@
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="./footer.svg" alt="Akash Rao — arxr.space" width="100%" />
 </div>
