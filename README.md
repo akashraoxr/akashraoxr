@@ -143,7 +143,7 @@
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=000000&border_color=1f1f1f&quote_color=e5e5e5&author_color=737373&accent_color=ffffff" alt="Dev Quote" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="100%" />
 </div>
 
 <br />
