@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./banner.svg" alt="Akash Rao — @akashraoxr" width="100%" />
   <br /><br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=A3A3A3&center=true&vCenter=true&width=680&lines=Building+fast%2C+minimalist+software+across+the+full+stack.;TypeScript+%C2%B7+Systems+%C2%B7+Cloud+%C2%B7+AI+%C2%B7+Open+Source;Currently+building+sanpro-erp+%26+arxr.space" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=A3A3A3&center=true&vCenter=true&width=680&lines=Building+fast%2C+minimalist+software+across+the+full+stack.;TypeScript+%C2%B7+Systems+%C2%B7+Cloud+%C2%B7+AI+%C2%B7+Architecture;Design-driven+engineering+%C2%B7+arxr.space" alt="Typing SVG" />
 </div>
 
 <br />
@@ -9,22 +9,15 @@
 <div align="center">
   <a href="https://arxr.space/"><img src="https://img.shields.io/badge/WEB-arxr.space-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Website" /></a>
   <a href="https://github.com/akashraoxr"><img src="https://img.shields.io/badge/GITHUB-@akashraoxr-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" /></a>
-  <a href="https://github.com/akashraoxr/aurclean"><img src="https://img.shields.io/badge/OPEN_SOURCE-aurclean-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=000000" alt="aurclean" /></a>
 </div>
 
 <br />
 <img src="./divider.svg" width="100%" alt="" />
 <br />
 
-### `01 // ABOUT`
-
-```yaml
-name:     Akash Rao
-handle:   "@akashraoxr"
-web:      "https://arxr.space/"
-focus:    ["Full-Stack Engineering", "Internal Tools", "Distributed Systems", "AI"]
-building: ["sanpro-erp", "portfolio", "aurclean"]
-```
+<div align="center">
+  <img src="./about.svg" alt="01 // ABOUT — Akash Rao" width="100%" />
+</div>
 
 <br />
 <img src="./divider.svg" width="100%" alt="" />
@@ -147,4 +140,7 @@ building: ["sanpro-erp", "portfolio", "aurclean"]
 </div>
 
 <br />
-<img src="./divider.svg" width="100%" alt="" />
+
+<div align="center">
+  <img src="./footer.svg" alt="Akash Rao — arxr.space" width="100%" />
+</div>
