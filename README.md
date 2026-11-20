@@ -24,7 +24,11 @@
 <img src="./divider.svg" width="100%" alt="" />
 <br />
 
-### `02 // TECH STACK`
+<div align="center">
+  <img src="./header-stack.svg" width="100%" alt="Tech Stack" />
+</div>
+
+<br />
 
 **Languages**
 <p>
@@ -133,7 +137,11 @@
 <img src="./divider.svg" width="100%" alt="" />
 <br />
 
-### `03 // TELEMETRY`
+<div align="center">
+  <img src="./header-telemetry.svg" width="100%" alt="GitHub Telemetry" />
+</div>
+
+<br />
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=akashraoxr&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&border_color=1f1f1f&title_color=ffffff&text_color=888888&icon_color=ffffff" alt="GitHub Stats" />
